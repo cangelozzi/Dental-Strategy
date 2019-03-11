@@ -1,0 +1,558 @@
+yarn run v1.6.0
+$ vue-cli-service serve
+ INFO  Starting development server...
+ ERROR  Failed to compile with 27 errors14:29:00
+
+ error  in ./resources/assets/src/components/basicContent.vue
+
+Module build failed: 
+@import '../../stylesheets/varables.scss';
+^
+      File to import not found or unreadable: ../../stylesheets/varables.scss.
+      in /home/nicholas/Desktop/dental_strategy/resources/assets/src/components/basicContent.vue (line 39, column 1)
+
+ @ ./node_modules/vue-style-loader?{"shadowMode":false,"sourceMap":false}!./node_modules/css-loader?{"sourceMap":false,"minimize":false}!./node_modules/vue-loader/lib/style-compiler?{"optionsId":"0","vue":true,"id":"data-v-906e5376","scoped":true,"sourceMap":false}!./node_modules/sass-loader/lib/loader.js?{"sourceMap":false}!./node_modules/vue-loader/lib/selector.js?type=styles&index=0!./resources/assets/src/components/basicContent.vue 4:14-438 14:3-18:5 15:22-446
+ @ ./resources/assets/src/components/basicContent.vue
+ @ ./resources/assets/src/router.js
+ @ ./resources/assets/src/main.js
+ @ multi (webpack)-dev-server/client/index.js (webpack)/hot/dev-server.js ./resources/assets/src/main.js
+
+ error  in ./resources/assets/src/components/chapter3.vue
+
+Module build failed: 
+@import '../../stylesheets/varables.scss';
+^
+      File to import not found or unreadable: ../../stylesheets/varables.scss.
+      in /home/nicholas/Desktop/dental_strategy/resources/assets/src/components/chapter3.vue (line 38, column 1)
+
+ @ ./node_modules/vue-style-loader?{"shadowMode":false,"sourceMap":false}!./node_modules/css-loader?{"sourceMap":false,"minimize":false}!./node_modules/vue-loader/lib/style-compiler?{"optionsId":"0","vue":true,"id":"data-v-6e7806e0","scoped":true,"sourceMap":false}!./node_modules/sass-loader/lib/loader.js?{"sourceMap":false}!./node_modules/vue-loader/lib/selector.js?type=styles&index=0!./resources/assets/src/components/chapter3.vue 4:14-434 14:3-18:5 15:22-442
+ @ ./resources/assets/src/components/chapter3.vue
+ @ ./resources/assets/src/router.js
+ @ ./resources/assets/src/main.js
+ @ multi (webpack)-dev-server/client/index.js (webpack)/hot/dev-server.js ./resources/assets/src/main.js
+
+ error  in ./resources/assets/src/components/chapter4.vue
+
+Module build failed: 
+@import '../../stylesheets/varables.scss';
+^
+      File to import not found or unreadable: ../../stylesheets/varables.scss.
+      in /home/nicholas/Desktop/dental_strategy/resources/assets/src/components/chapter4.vue (line 43, column 1)
+
+ @ ./node_modules/vue-style-loader?{"shadowMode":false,"sourceMap":false}!./node_modules/css-loader?{"sourceMap":false,"minimize":false}!./node_modules/vue-loader/lib/style-compiler?{"optionsId":"0","vue":true,"id":"data-v-6e861e61","scoped":true,"sourceMap":false}!./node_modules/sass-loader/lib/loader.js?{"sourceMap":false}!./node_modules/vue-loader/lib/selector.js?type=styles&index=0!./resources/assets/src/components/chapter4.vue 4:14-434 14:3-18:5 15:22-442
+ @ ./resources/assets/src/components/chapter4.vue
+ @ ./resources/assets/src/router.js
+ @ ./resources/assets/src/main.js
+ @ multi (webpack)-dev-server/client/index.js (webpack)/hot/dev-server.js ./resources/assets/src/main.js
+
+ error  in ./resources/assets/src/components/imageContent.vue
+
+Module build failed: 
+@import '../../stylesheets/varables.scss';
+^
+      File to import not found or unreadable: ../../stylesheets/varables.scss.
+      in /home/nicholas/Desktop/dental_strategy/resources/assets/src/components/imageContent.vue (line 44, column 1)
+
+ @ ./node_modules/vue-style-loader?{"shadowMode":false,"sourceMap":false}!./node_modules/css-loader?{"sourceMap":false,"minimize":false}!./node_modules/vue-loader/lib/style-compiler?{"optionsId":"0","vue":true,"scoped":false,"sourceMap":false}!./node_modules/sass-loader/lib/loader.js?{"sourceMap":false}!./node_modules/vue-loader/lib/selector.js?type=styles&index=0!./resources/assets/src/components/imageContent.vue 4:14-412 14:3-18:5 15:22-420
+ @ ./resources/assets/src/components/imageContent.vue
+ @ ./resources/assets/src/router.js
+ @ ./resources/assets/src/main.js
+ @ multi (webpack)-dev-server/client/index.js (webpack)/hot/dev-server.js ./resources/assets/src/main.js
+
+ error  in ./resources/assets/src/components/lessonContent.vue
+
+Module build failed: 
+@import '../../stylesheets/varables.scss';
+^
+      File to import not found or unreadable: ../../stylesheets/varables.scss.
+      in /home/nicholas/Desktop/dental_strategy/resources/assets/src/components/lessonContent.vue (line 45, column 1)
+
+ @ ./node_modules/vue-style-loader?{"shadowMode":false,"sourceMap":false}!./node_modules/css-loader?{"sourceMap":false,"minimize":false}!./node_modules/vue-loader/lib/style-compiler?{"optionsId":"0","vue":true,"id":"data-v-50d759b7","scoped":true,"sourceMap":false}!./node_modules/sass-loader/lib/loader.js?{"sourceMap":false}!./node_modules/vue-loader/lib/selector.js?type=styles&index=0!./resources/assets/src/components/lessonContent.vue 4:14-439 14:3-18:5 15:22-447
+ @ ./resources/assets/src/components/lessonContent.vue
+ @ ./resources/assets/src/router.js
+ @ ./resources/assets/src/main.js
+ @ multi (webpack)-dev-server/client/index.js (webpack)/hot/dev-server.js ./resources/assets/src/main.js
+
+ error  in ./resources/assets/src/components/result_pass.vue
+
+Module build failed: 
+@import '../../stylesheets/varables.scss';
+^
+      File to import not found or unreadable: ../../stylesheets/varables.scss.
+      in /home/nicholas/Desktop/dental_strategy/resources/assets/src/components/result_pass.vue (line 33, column 1)
+
+ @ ./node_modules/vue-style-loader?{"shadowMode":false,"sourceMap":false}!./node_modules/css-loader?{"sourceMap":false,"minimize":false}!./node_modules/vue-loader/lib/style-compiler?{"optionsId":"0","vue":true,"scoped":false,"sourceMap":false}!./node_modules/sass-loader/lib/loader.js?{"sourceMap":false}!./node_modules/vue-loader/lib/selector.js?type=styles&index=0!./resources/assets/src/components/result_pass.vue 4:14-411 14:3-18:5 15:22-419
+ @ ./resources/assets/src/components/result_pass.vue
+ @ ./resources/assets/src/router.js
+ @ ./resources/assets/src/main.js
+ @ multi (webpack)-dev-server/client/index.js (webpack)/hot/dev-server.js ./resources/assets/src/main.js
+
+ error  in ./resources/assets/src/components/test.vue
+
+Module build failed: 
+@import '../../stylesheets/varables.scss';
+^
+      File to import not found or unreadable: ../../stylesheets/varables.scss.
+      in /home/nicholas/Desktop/dental_strategy/resources/assets/src/components/test.vue (line 44, column 1)
+
+ @ ./node_modules/vue-style-loader?{"shadowMode":false,"sourceMap":false}!./node_modules/css-loader?{"sourceMap":false,"minimize":false}!./node_modules/vue-loader/lib/style-compiler?{"optionsId":"0","vue":true,"scoped":false,"sourceMap":false}!./node_modules/sass-loader/lib/loader.js?{"sourceMap":false}!./node_modules/vue-loader/lib/selector.js?type=styles&index=0!./resources/assets/src/components/test.vue 4:14-404 14:3-18:5 15:22-412
+ @ ./resources/assets/src/components/test.vue
+ @ ./resources/assets/src/router.js
+ @ ./resources/assets/src/main.js
+ @ multi (webpack)-dev-server/client/index.js (webpack)/hot/dev-server.js ./resources/assets/src/main.js
+
+ error  in ./resources/assets/src/components/test_result.vue
+
+Module build failed: 
+@import '../../stylesheets/varables.scss';
+^
+      File to import not found or unreadable: ../../stylesheets/varables.scss.
+      in /home/nicholas/Desktop/dental_strategy/resources/assets/src/components/test_result.vue (line 48, column 1)
+
+ @ ./node_modules/vue-style-loader?{"shadowMode":false,"sourceMap":false}!./node_modules/css-loader?{"sourceMap":false,"minimize":false}!./node_modules/vue-loader/lib/style-compiler?{"optionsId":"0","vue":true,"scoped":false,"sourceMap":false}!./node_modules/sass-loader/lib/loader.js?{"sourceMap":false}!./node_modules/vue-loader/lib/selector.js?type=styles&index=0!./resources/assets/src/components/test_result.vue 4:14-411 14:3-18:5 15:22-419
+ @ ./resources/assets/src/components/test_result.vue
+ @ ./resources/assets/src/router.js
+ @ ./resources/assets/src/main.js
+ @ multi (webpack)-dev-server/client/index.js (webpack)/hot/dev-server.js ./resources/assets/src/main.js
+
+ error  in ./resources/assets/src/components/videoContent.vue
+
+Module build failed: 
+@import '../../stylesheets/varables.scss';
+^
+      File to import not found or unreadable: ../../stylesheets/varables.scss.
+      in /home/nicholas/Desktop/dental_strategy/resources/assets/src/components/videoContent.vue (line 36, column 1)
+
+ @ ./node_modules/vue-style-loader?{"shadowMode":false,"sourceMap":false}!./node_modules/css-loader?{"sourceMap":false,"minimize":false}!./node_modules/vue-loader/lib/style-compiler?{"optionsId":"0","vue":true,"scoped":false,"sourceMap":false}!./node_modules/sass-loader/lib/loader.js?{"sourceMap":false}!./node_modules/vue-loader/lib/selector.js?type=styles&index=0!./resources/assets/src/components/videoContent.vue 4:14-412 14:3-18:5 15:22-420
+ @ ./resources/assets/src/components/videoContent.vue
+ @ ./resources/assets/src/router.js
+ @ ./resources/assets/src/main.js
+ @ multi (webpack)-dev-server/client/index.js (webpack)/hot/dev-server.js ./resources/assets/src/main.js
+
+ error  in ./resources/assets/src/components/library.vue
+
+Module build failed: 
+@import '../../stylesheets/variables.scss';
+^
+      File to import not found or unreadable: ../../stylesheets/variables.scss.
+      in /home/nicholas/Desktop/dental_strategy/resources/assets/src/components/library.vue (line 36, column 1)
+
+ @ ./node_modules/vue-style-loader?{"shadowMode":false,"sourceMap":false}!./node_modules/css-loader?{"sourceMap":false,"minimize":false}!./node_modules/vue-loader/lib/style-compiler?{"optionsId":"0","vue":true,"scoped":false,"sourceMap":false}!./node_modules/sass-loader/lib/loader.js?{"sourceMap":false}!./node_modules/vue-loader/lib/selector.js?type=styles&index=0!./resources/assets/src/components/library.vue 4:14-407 14:3-18:5 15:22-415
+ @ ./resources/assets/src/components/library.vue
+ @ ./resources/assets/src/router.js
+ @ ./resources/assets/src/main.js
+ @ multi (webpack)-dev-server/client/index.js (webpack)/hot/dev-server.js ./resources/assets/src/main.js
+
+ error  in ./resources/assets/src/pages/Home.vue
+
+Module build failed: 
+@import '../../stylesheets/variables.scss';
+^
+      File to import not found or unreadable: ../../stylesheets/variables.scss.
+      in /home/nicholas/Desktop/dental_strategy/resources/assets/src/pages/Home.vue (line 51, column 1)
+
+ @ ./node_modules/vue-style-loader?{"shadowMode":false,"sourceMap":false}!./node_modules/css-loader?{"sourceMap":false,"minimize":false}!./node_modules/vue-loader/lib/style-compiler?{"optionsId":"0","vue":true,"scoped":false,"sourceMap":false}!./node_modules/sass-loader/lib/loader.js?{"sourceMap":false}!./node_modules/vue-loader/lib/selector.js?type=styles&index=0!./resources/assets/src/pages/Home.vue 4:14-404 14:3-18:5 15:22-412
+ @ ./resources/assets/src/pages/Home.vue
+ @ ./resources/assets/src/router.js
+ @ ./resources/assets/src/main.js
+ @ multi (webpack)-dev-server/client/index.js (webpack)/hot/dev-server.js ./resources/assets/src/main.js
+
+ error  in ./resources/assets/src/components/result_pass.vue
+
+Module build failed: Error: Plugin 0 specified in "/home/nicholas/Desktop/dental_strategy/node_modules/@vue/babel-preset-app/index.js" provided an invalid property of "default" (While processing preset: "/home/nicholas/Desktop/dental_strategy/node_modules/@vue/babel-preset-app/index.js")
+    at Plugin.init (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/plugin.js:131:13)
+    at Function.normalisePlugin (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:152:12)
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:184:30
+    at Array.map (<anonymous>)
+    at Function.normalisePlugins (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:158:20)
+    at OptionManager.mergeOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:234:36)
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:265:14
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:323:22
+    at Array.map (<anonymous>)
+    at OptionManager.resolvePresets (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:275:20)
+    at OptionManager.mergePresets (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:264:10)
+    at OptionManager.mergeOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:249:14)
+    at OptionManager.init (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:368:12)
+    at File.initOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/index.js:212:65)
+    at new File (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/index.js:135:24)
+    at Pipeline.transform (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/pipeline.js:46:16)
+
+ @ ./resources/assets/src/components/result_pass.vue 7:0-227 8:0-240
+ @ ./resources/assets/src/router.js
+ @ ./resources/assets/src/main.js
+ @ multi (webpack)-dev-server/client/index.js (webpack)/hot/dev-server.js ./resources/assets/src/main.js
+
+ error  in ./resources/assets/src/pages/Home.vue
+
+Module build failed: Error: Plugin 0 specified in "/home/nicholas/Desktop/dental_strategy/node_modules/@vue/babel-preset-app/index.js" provided an invalid property of "default" (While processing preset: "/home/nicholas/Desktop/dental_strategy/node_modules/@vue/babel-preset-app/index.js")
+    at Plugin.init (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/plugin.js:131:13)
+    at Function.normalisePlugin (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:152:12)
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:184:30
+    at Array.map (<anonymous>)
+    at Function.normalisePlugins (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:158:20)
+    at OptionManager.mergeOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:234:36)
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:265:14
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:323:22
+    at Array.map (<anonymous>)
+    at OptionManager.resolvePresets (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:275:20)
+    at OptionManager.mergePresets (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:264:10)
+    at OptionManager.mergeOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:249:14)
+    at OptionManager.init (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:368:12)
+    at File.initOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/index.js:212:65)
+    at new File (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/index.js:135:24)
+    at Pipeline.transform (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/pipeline.js:46:16)
+
+ @ ./resources/assets/src/pages/Home.vue 7:0-220 8:0-233
+ @ ./resources/assets/src/router.js
+ @ ./resources/assets/src/main.js
+ @ multi (webpack)-dev-server/client/index.js (webpack)/hot/dev-server.js ./resources/assets/src/main.js
+
+ error  in ./resources/assets/src/components/Editor.vue
+
+Module build failed: Error: Plugin 0 specified in "/home/nicholas/Desktop/dental_strategy/node_modules/@vue/babel-preset-app/index.js" provided an invalid property of "default" (While processing preset: "/home/nicholas/Desktop/dental_strategy/node_modules/@vue/babel-preset-app/index.js")
+    at Plugin.init (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/plugin.js:131:13)
+    at Function.normalisePlugin (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:152:12)
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:184:30
+    at Array.map (<anonymous>)
+    at Function.normalisePlugins (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:158:20)
+    at OptionManager.mergeOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:234:36)
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:265:14
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:323:22
+    at Array.map (<anonymous>)
+    at OptionManager.resolvePresets (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:275:20)
+    at OptionManager.mergePresets (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:264:10)
+    at OptionManager.mergeOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:249:14)
+    at OptionManager.init (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:368:12)
+    at File.initOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/index.js:212:65)
+    at new File (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/index.js:135:24)
+    at Pipeline.transform (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/pipeline.js:46:16)
+
+ @ ./resources/assets/src/components/Editor.vue 7:0-222 8:0-235
+ @ ./resources/assets/src/router.js
+ @ ./resources/assets/src/main.js
+ @ multi (webpack)-dev-server/client/index.js (webpack)/hot/dev-server.js ./resources/assets/src/main.js
+
+ error  in ./resources/assets/src/pages/Lessons/Page.vue
+
+Module build failed: Error: Plugin 0 specified in "/home/nicholas/Desktop/dental_strategy/node_modules/@vue/babel-preset-app/index.js" provided an invalid property of "default" (While processing preset: "/home/nicholas/Desktop/dental_strategy/node_modules/@vue/babel-preset-app/index.js")
+    at Plugin.init (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/plugin.js:131:13)
+    at Function.normalisePlugin (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:152:12)
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:184:30
+    at Array.map (<anonymous>)
+    at Function.normalisePlugins (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:158:20)
+    at OptionManager.mergeOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:234:36)
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:265:14
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:323:22
+    at Array.map (<anonymous>)
+    at OptionManager.resolvePresets (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:275:20)
+    at OptionManager.mergePresets (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:264:10)
+    at OptionManager.mergeOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:249:14)
+    at OptionManager.init (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:368:12)
+    at File.initOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/index.js:212:65)
+    at new File (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/index.js:135:24)
+    at Pipeline.transform (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/pipeline.js:46:16)
+
+ @ ./resources/assets/src/pages/Lessons/Page.vue 7:0-223 8:0-236
+ @ ./resources/assets/src/router.js
+ @ ./resources/assets/src/main.js
+ @ multi (webpack)-dev-server/client/index.js (webpack)/hot/dev-server.js ./resources/assets/src/main.js
+
+ error  in ./resources/assets/src/pages/Lessons/index.vue
+
+Module build failed: Error: Plugin 0 specified in "/home/nicholas/Desktop/dental_strategy/node_modules/@vue/babel-preset-app/index.js" provided an invalid property of "default" (While processing preset: "/home/nicholas/Desktop/dental_strategy/node_modules/@vue/babel-preset-app/index.js")
+    at Plugin.init (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/plugin.js:131:13)
+    at Function.normalisePlugin (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:152:12)
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:184:30
+    at Array.map (<anonymous>)
+    at Function.normalisePlugins (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:158:20)
+    at OptionManager.mergeOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:234:36)
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:265:14
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:323:22
+    at Array.map (<anonymous>)
+    at OptionManager.resolvePresets (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:275:20)
+    at OptionManager.mergePresets (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:264:10)
+    at OptionManager.mergeOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:249:14)
+    at OptionManager.init (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:368:12)
+    at File.initOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/index.js:212:65)
+    at new File (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/index.js:135:24)
+    at Pipeline.transform (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/pipeline.js:46:16)
+
+ @ ./resources/assets/src/pages/Lessons/index.vue 7:0-224 8:0-237
+ @ ./resources/assets/src/router.js
+ @ ./resources/assets/src/main.js
+ @ multi (webpack)-dev-server/client/index.js (webpack)/hot/dev-server.js ./resources/assets/src/main.js
+
+ error  in ./resources/assets/src/App.vue
+
+Module build failed: Error: Plugin 0 specified in "/home/nicholas/Desktop/dental_strategy/node_modules/@vue/babel-preset-app/index.js" provided an invalid property of "default" (While processing preset: "/home/nicholas/Desktop/dental_strategy/node_modules/@vue/babel-preset-app/index.js")
+    at Plugin.init (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/plugin.js:131:13)
+    at Function.normalisePlugin (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:152:12)
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:184:30
+    at Array.map (<anonymous>)
+    at Function.normalisePlugins (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:158:20)
+    at OptionManager.mergeOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:234:36)
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:265:14
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:323:22
+    at Array.map (<anonymous>)
+    at OptionManager.resolvePresets (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:275:20)
+    at OptionManager.mergePresets (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:264:10)
+    at OptionManager.mergeOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:249:14)
+    at OptionManager.init (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:368:12)
+    at File.initOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/index.js:212:65)
+    at new File (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/index.js:135:24)
+    at Pipeline.transform (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/pipeline.js:46:16)
+
+ @ ./resources/assets/src/App.vue 7:0-216 8:0-229
+ @ ./resources/assets/src/main.js
+ @ multi (webpack)-dev-server/client/index.js (webpack)/hot/dev-server.js ./resources/assets/src/main.js
+
+ error  in ./resources/assets/src/components/library.vue
+
+Module build failed: Error: Plugin 0 specified in "/home/nicholas/Desktop/dental_strategy/node_modules/@vue/babel-preset-app/index.js" provided an invalid property of "default" (While processing preset: "/home/nicholas/Desktop/dental_strategy/node_modules/@vue/babel-preset-app/index.js")
+    at Plugin.init (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/plugin.js:131:13)
+    at Function.normalisePlugin (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:152:12)
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:184:30
+    at Array.map (<anonymous>)
+    at Function.normalisePlugins (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:158:20)
+    at OptionManager.mergeOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:234:36)
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:265:14
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:323:22
+    at Array.map (<anonymous>)
+    at OptionManager.resolvePresets (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:275:20)
+    at OptionManager.mergePresets (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:264:10)
+    at OptionManager.mergeOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:249:14)
+    at OptionManager.init (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:368:12)
+    at File.initOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/index.js:212:65)
+    at new File (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/index.js:135:24)
+    at Pipeline.transform (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/pipeline.js:46:16)
+
+ @ ./resources/assets/src/components/library.vue 7:0-223 8:0-236
+ @ ./resources/assets/src/router.js
+ @ ./resources/assets/src/main.js
+ @ multi (webpack)-dev-server/client/index.js (webpack)/hot/dev-server.js ./resources/assets/src/main.js
+
+ error  in ./resources/assets/src/components/lessonContent.vue
+
+Module build failed: Error: Plugin 0 specified in "/home/nicholas/Desktop/dental_strategy/node_modules/@vue/babel-preset-app/index.js" provided an invalid property of "default" (While processing preset: "/home/nicholas/Desktop/dental_strategy/node_modules/@vue/babel-preset-app/index.js")
+    at Plugin.init (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/plugin.js:131:13)
+    at Function.normalisePlugin (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:152:12)
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:184:30
+    at Array.map (<anonymous>)
+    at Function.normalisePlugins (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:158:20)
+    at OptionManager.mergeOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:234:36)
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:265:14
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:323:22
+    at Array.map (<anonymous>)
+    at OptionManager.resolvePresets (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:275:20)
+    at OptionManager.mergePresets (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:264:10)
+    at OptionManager.mergeOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:249:14)
+    at OptionManager.init (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:368:12)
+    at File.initOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/index.js:212:65)
+    at new File (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/index.js:135:24)
+    at Pipeline.transform (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/pipeline.js:46:16)
+
+ @ ./resources/assets/src/components/lessonContent.vue 7:0-229 8:0-242
+ @ ./resources/assets/src/router.js
+ @ ./resources/assets/src/main.js
+ @ multi (webpack)-dev-server/client/index.js (webpack)/hot/dev-server.js ./resources/assets/src/main.js
+
+ error  in ./resources/assets/src/components/chapter3.vue
+
+Module build failed: Error: Plugin 0 specified in "/home/nicholas/Desktop/dental_strategy/node_modules/@vue/babel-preset-app/index.js" provided an invalid property of "default" (While processing preset: "/home/nicholas/Desktop/dental_strategy/node_modules/@vue/babel-preset-app/index.js")
+    at Plugin.init (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/plugin.js:131:13)
+    at Function.normalisePlugin (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:152:12)
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:184:30
+    at Array.map (<anonymous>)
+    at Function.normalisePlugins (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:158:20)
+    at OptionManager.mergeOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:234:36)
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:265:14
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:323:22
+    at Array.map (<anonymous>)
+    at OptionManager.resolvePresets (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:275:20)
+    at OptionManager.mergePresets (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:264:10)
+    at OptionManager.mergeOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:249:14)
+    at OptionManager.init (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:368:12)
+    at File.initOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/index.js:212:65)
+    at new File (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/index.js:135:24)
+    at Pipeline.transform (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/pipeline.js:46:16)
+
+ @ ./resources/assets/src/components/chapter3.vue 7:0-224 8:0-237
+ @ ./resources/assets/src/router.js
+ @ ./resources/assets/src/main.js
+ @ multi (webpack)-dev-server/client/index.js (webpack)/hot/dev-server.js ./resources/assets/src/main.js
+
+ error  in ./resources/assets/src/components/basicContent.vue
+
+Module build failed: Error: Plugin 0 specified in "/home/nicholas/Desktop/dental_strategy/node_modules/@vue/babel-preset-app/index.js" provided an invalid property of "default" (While processing preset: "/home/nicholas/Desktop/dental_strategy/node_modules/@vue/babel-preset-app/index.js")
+    at Plugin.init (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/plugin.js:131:13)
+    at Function.normalisePlugin (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:152:12)
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:184:30
+    at Array.map (<anonymous>)
+    at Function.normalisePlugins (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:158:20)
+    at OptionManager.mergeOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:234:36)
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:265:14
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:323:22
+    at Array.map (<anonymous>)
+    at OptionManager.resolvePresets (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:275:20)
+    at OptionManager.mergePresets (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:264:10)
+    at OptionManager.mergeOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:249:14)
+    at OptionManager.init (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:368:12)
+    at File.initOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/index.js:212:65)
+    at new File (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/index.js:135:24)
+    at Pipeline.transform (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/pipeline.js:46:16)
+
+ @ ./resources/assets/src/components/basicContent.vue 7:0-228 8:0-241
+ @ ./resources/assets/src/router.js
+ @ ./resources/assets/src/main.js
+ @ multi (webpack)-dev-server/client/index.js (webpack)/hot/dev-server.js ./resources/assets/src/main.js
+
+ error  in ./resources/assets/src/components/chapter4.vue
+
+Module build failed: Error: Plugin 0 specified in "/home/nicholas/Desktop/dental_strategy/node_modules/@vue/babel-preset-app/index.js" provided an invalid property of "default" (While processing preset: "/home/nicholas/Desktop/dental_strategy/node_modules/@vue/babel-preset-app/index.js")
+    at Plugin.init (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/plugin.js:131:13)
+    at Function.normalisePlugin (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:152:12)
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:184:30
+    at Array.map (<anonymous>)
+    at Function.normalisePlugins (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:158:20)
+    at OptionManager.mergeOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:234:36)
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:265:14
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:323:22
+    at Array.map (<anonymous>)
+    at OptionManager.resolvePresets (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:275:20)
+    at OptionManager.mergePresets (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:264:10)
+    at OptionManager.mergeOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:249:14)
+    at OptionManager.init (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:368:12)
+    at File.initOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/index.js:212:65)
+    at new File (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/index.js:135:24)
+    at Pipeline.transform (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/pipeline.js:46:16)
+
+ @ ./resources/assets/src/components/chapter4.vue 7:0-224 8:0-237
+ @ ./resources/assets/src/router.js
+ @ ./resources/assets/src/main.js
+ @ multi (webpack)-dev-server/client/index.js (webpack)/hot/dev-server.js ./resources/assets/src/main.js
+
+ error  in ./resources/assets/src/components/test_result.vue
+
+Module build failed: Error: Plugin 0 specified in "/home/nicholas/Desktop/dental_strategy/node_modules/@vue/babel-preset-app/index.js" provided an invalid property of "default" (While processing preset: "/home/nicholas/Desktop/dental_strategy/node_modules/@vue/babel-preset-app/index.js")
+    at Plugin.init (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/plugin.js:131:13)
+    at Function.normalisePlugin (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:152:12)
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:184:30
+    at Array.map (<anonymous>)
+    at Function.normalisePlugins (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:158:20)
+    at OptionManager.mergeOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:234:36)
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:265:14
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:323:22
+    at Array.map (<anonymous>)
+    at OptionManager.resolvePresets (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:275:20)
+    at OptionManager.mergePresets (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:264:10)
+    at OptionManager.mergeOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:249:14)
+    at OptionManager.init (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:368:12)
+    at File.initOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/index.js:212:65)
+    at new File (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/index.js:135:24)
+    at Pipeline.transform (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/pipeline.js:46:16)
+
+ @ ./resources/assets/src/components/test_result.vue 7:0-227 8:0-240
+ @ ./resources/assets/src/router.js
+ @ ./resources/assets/src/main.js
+ @ multi (webpack)-dev-server/client/index.js (webpack)/hot/dev-server.js ./resources/assets/src/main.js
+
+ error  in ./resources/assets/src/components/test.vue
+
+Module build failed: Error: Plugin 0 specified in "/home/nicholas/Desktop/dental_strategy/node_modules/@vue/babel-preset-app/index.js" provided an invalid property of "default" (While processing preset: "/home/nicholas/Desktop/dental_strategy/node_modules/@vue/babel-preset-app/index.js")
+    at Plugin.init (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/plugin.js:131:13)
+    at Function.normalisePlugin (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:152:12)
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:184:30
+    at Array.map (<anonymous>)
+    at Function.normalisePlugins (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:158:20)
+    at OptionManager.mergeOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:234:36)
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:265:14
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:323:22
+    at Array.map (<anonymous>)
+    at OptionManager.resolvePresets (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:275:20)
+    at OptionManager.mergePresets (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:264:10)
+    at OptionManager.mergeOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:249:14)
+    at OptionManager.init (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:368:12)
+    at File.initOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/index.js:212:65)
+    at new File (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/index.js:135:24)
+    at Pipeline.transform (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/pipeline.js:46:16)
+
+ @ ./resources/assets/src/components/test.vue 7:0-220 8:0-233
+ @ ./resources/assets/src/router.js
+ @ ./resources/assets/src/main.js
+ @ multi (webpack)-dev-server/client/index.js (webpack)/hot/dev-server.js ./resources/assets/src/main.js
+
+ error  in ./resources/assets/src/components/imageContent.vue
+
+Module build failed: Error: Plugin 0 specified in "/home/nicholas/Desktop/dental_strategy/node_modules/@vue/babel-preset-app/index.js" provided an invalid property of "default" (While processing preset: "/home/nicholas/Desktop/dental_strategy/node_modules/@vue/babel-preset-app/index.js")
+    at Plugin.init (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/plugin.js:131:13)
+    at Function.normalisePlugin (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:152:12)
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:184:30
+    at Array.map (<anonymous>)
+    at Function.normalisePlugins (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:158:20)
+    at OptionManager.mergeOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:234:36)
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:265:14
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:323:22
+    at Array.map (<anonymous>)
+    at OptionManager.resolvePresets (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:275:20)
+    at OptionManager.mergePresets (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:264:10)
+    at OptionManager.mergeOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:249:14)
+    at OptionManager.init (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:368:12)
+    at File.initOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/index.js:212:65)
+    at new File (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/index.js:135:24)
+    at Pipeline.transform (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/pipeline.js:46:16)
+
+ @ ./resources/assets/src/components/imageContent.vue 7:0-228 8:0-241
+ @ ./resources/assets/src/router.js
+ @ ./resources/assets/src/main.js
+ @ multi (webpack)-dev-server/client/index.js (webpack)/hot/dev-server.js ./resources/assets/src/main.js
+
+ error  in ./resources/assets/src/components/videoContent.vue
+
+Module build failed: Error: Plugin 0 specified in "/home/nicholas/Desktop/dental_strategy/node_modules/@vue/babel-preset-app/index.js" provided an invalid property of "default" (While processing preset: "/home/nicholas/Desktop/dental_strategy/node_modules/@vue/babel-preset-app/index.js")
+    at Plugin.init (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/plugin.js:131:13)
+    at Function.normalisePlugin (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:152:12)
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:184:30
+    at Array.map (<anonymous>)
+    at Function.normalisePlugins (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:158:20)
+    at OptionManager.mergeOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:234:36)
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:265:14
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:323:22
+    at Array.map (<anonymous>)
+    at OptionManager.resolvePresets (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:275:20)
+    at OptionManager.mergePresets (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:264:10)
+    at OptionManager.mergeOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:249:14)
+    at OptionManager.init (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:368:12)
+    at File.initOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/index.js:212:65)
+    at new File (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/index.js:135:24)
+    at Pipeline.transform (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/pipeline.js:46:16)
+
+ @ ./resources/assets/src/components/videoContent.vue 7:0-228 8:0-241
+ @ ./resources/assets/src/router.js
+ @ ./resources/assets/src/main.js
+ @ multi (webpack)-dev-server/client/index.js (webpack)/hot/dev-server.js ./resources/assets/src/main.js
+
+ error  in ./resources/assets/src/pages/Modules.vue
+
+Module build failed: Error: Plugin 0 specified in "/home/nicholas/Desktop/dental_strategy/node_modules/@vue/babel-preset-app/index.js" provided an invalid property of "default" (While processing preset: "/home/nicholas/Desktop/dental_strategy/node_modules/@vue/babel-preset-app/index.js")
+    at Plugin.init (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/plugin.js:131:13)
+    at Function.normalisePlugin (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:152:12)
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:184:30
+    at Array.map (<anonymous>)
+    at Function.normalisePlugins (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:158:20)
+    at OptionManager.mergeOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:234:36)
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:265:14
+    at /home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:323:22
+    at Array.map (<anonymous>)
+    at OptionManager.resolvePresets (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:275:20)
+    at OptionManager.mergePresets (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:264:10)
+    at OptionManager.mergeOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:249:14)
+    at OptionManager.init (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/options/option-manager.js:368:12)
+    at File.initOptions (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/index.js:212:65)
+    at new File (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/file/index.js:135:24)
+    at Pipeline.transform (/home/nicholas/Desktop/dental_strategy/node_modules/babel-core/lib/transformation/pipeline.js:46:16)
+
+ @ ./resources/assets/src/pages/Modules.vue 7:0-223 8:0-236
+ @ ./resources/assets/src/router.js
+ @ ./resources/assets/src/main.js
+ @ multi (webpack)-dev-server/client/index.js (webpack)/hot/dev-server.js ./resources/assets/src/main.js
+

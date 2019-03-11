@@ -1,0 +1,16 @@
+@mixin sidebar(){
+background: $lightGrey;
+height: 100vh;
+grid-column: 1 / 4;
+}
+
+@mixin leftPanel(){
+    background: $primaryColor;
+    height: 100vh;
+    grid-column: 1 / 7;
+}
+
+@mixin rightPanel(){
+    background: $lightGrey;
+    height: 100vh;
+}

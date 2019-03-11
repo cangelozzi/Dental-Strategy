@@ -1,0 +1,21 @@
+
+{
+  "name": "Patient Care Specialist II",
+  "description": "Responsible with patient contact and interactions.  Such responsibilites include scheduling, calling etc..",
+  "modules": [
+    {
+      "title": "Patient Contact",
+      "description" : "We will learn about the required knowledge for Patient care specialist",
+      "lessons" : [
+        {
+          "title" : "Phone Training",
+          "description" : "We will learning how to corretly make use of our most important tool; the phone.",
+          "pages" : {
+            "title" : "What Will you Learn?",
+            "content" : ""
+          }
+        }
+      ]
+    }
+  ]
+}

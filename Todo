@@ -1,0 +1,21 @@
+
+
+TODO:
+  Database:
+    ✔ Add a migration to companies to add name column @done(18-03-02 13:48)
+    ✔ Add drops constraint to Schema DROP @done(18-03-02 13:47)
+  Controller: 
+    ✔ Create CompanyController @done(18-03-02 13:47)
+    ✔ Create EmployeeController @done(18-03-02 13:47)
+    ✔ Create ModuleController @started(18-03-02 13:47) @done(18-03-02 15:02) @lasted(1 hour 15 minutes 14 seconds)
+    ✔ Create QuizController @started(18-03-06 08:19) @done(18-03-06 10:06) @lasted(1 hour 47 minutes 11 seconds)
+    ☐ Create PageController 
+    ✔ Create Track Controller @started(18-03-06 10:09) @done(18-03-06 11:33) 
+  Refactors and Additions:
+    ✔ QuizController.create needs to be refactored to support creating questions and there answers aswell. @started(18-03-13 09:18) @done(18-03-13 09:18) @lasted(26 seconds)
+    ☐ TrackController.create needs to be refactored to support linking positions and modules
+  Bugs & Issues:
+    ☐ Tables are not dropping on migration reset.  Needing to drop and create database.
+    ☐ Refactor Lesson model unit test to not be dependent on prepopulated data.
+    ☐ Refactor Module unit test to not be dependent on prepopulated data.
+    ✔ The can_be_deleted method in the QuizController unit test needs to be re written.  Having memory leaks for some reason ? @started(18-03-06 11:32) @done(18-03-06 11:32) @lasted(18 seconds)
